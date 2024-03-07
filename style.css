@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aple {
+    width: 100%;
+    height: 50px;
+    background-color: #3d3b3b;
+    text-align: center;
+}
+.aple ul{
+    display: flex;
+    justify-content: center;
+}
+.rasm {
+    width:  150px;
+    height: 180px;
+    position: absolute;
+    color: aliceblue;
+    margin-left: -80px;
+    margin-top: -78px;
+    /* margin-left: 100px; */
+}
+.rasm1 {
+    margin-left: -600px;
+
+}
+.bbb {
+    display: flex;
+    justify-content: space-around;
+}
+.t {
+    color: black;
+
+}
+
+.bbb a {
+    color: white;
+}
+.bbb li {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.apple {
+    background-image: url(https://www.apple.com/v/home/bh/images/heroes/holiday-2023/holiday_2023_hero_still_time_endframe__d3xnuf3pztsi_largetall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 79vh;
+}
+
+.apple-watch{
+    background: url(https://www.apple.com/v/home/bi/images/heroes/iphone-15-pro/hero_iphone15pro__i70z9oz3hj2i_large.jpg) no-repeat center/cover;
+    background-position: center;
+    height: 580px;
+}
+
+
+.box {
+    width: 100%;
+    text-align: center;
+    margin-top: 500px;
+    
+    
+}
+
+.link{
+    color: rgb(0, 132, 255);
+    font-size: 1.2pc;
+    padding-top: 15px;
+}
+
+.text{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    margin-top: 60px;
+    color: aliceblue;
+}
+
+.photo{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 800px;
+}
+
+.apple-watch01 {    
+    background: url(https://www.apple.com/v/home/bi/images/heroes/iphone-15/hero_iphone15_announce__uuemlcwczn6u_large.jpg) no-repeat center/cover;
+    background-position: center;
+    text-align: center;
+    height: 580px;
+    margin-top: 10px;
+}
+.apple-watch01 h1{
+    padding-top: 2pc;
+    font-size: 3pc;
+    
+}
+.apple-watch01 p{
+    font-size: 1.5pc;
+}
+.link1{
+    color: rgb(0, 132, 255);
+    margin-left: 30px;
+    font-size: 1.2pc;
+    position: absolute;
+    text-align: center;
+}
+.link2{
+    color: rgb(0, 132, 255);
+    font-size: 1.2pc;
+    margin-left: -100px;
+    position: absolute;
+    text-align: center;
+}
+.divo{
+    display: flex;
+}
+.dovi2{
+    display: flex;
+}
+.divo3{
+    display: flex;
+}
+.Divor1{
+    font-size: 1.5pc;
+    padding-top: 2pc;
+}
+.Airpods {
+    color: aliceblue;
+}
+.aple-card {
+    height: 35px;
+    width: 35px;
+    left: 10px;
+}
+
+.divor1{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;
+
+}
+.divor2{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/ipad/promo_ipad__fioegapg12qi_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;
+
+}
+
+.divor3{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/airpods-pro/promo_airpods_pro_order__d8xv36p4uwae_large_2x.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;
+
+}
+.divor4{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/macbook-air-15/promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;  
+
+}
+.divor5{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/apple-card/tile__cauwwcyyn9hy_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;  
+
+}
+.divor6{
+    background-image: url(https://www.apple.com/v/home/bi/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 500px;  
+
+}
+.Finish {
+    width: 65%;
+    height: 190px;
+    margin: 10px auto;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0px 0px 0px 150px;
+    font-size: 20px;
+    color: rgb(190, 190, 190);
+}
+.Finish1 {
+    width: 65%;
+    height: 200px;
+    margin: 100px auto;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0px 0px 0px 150px;
+    font-size: 17px;
+    color: rgb(190, 190, 190);
+}
